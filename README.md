@@ -1,4 +1,4 @@
-# #snowleopard day - October 23, 2022
+# #snowleopardday - October 23, 2022
 
 - [Script `.R`](https://github.com/fblpalmeira/snowleopard/blob/main/slope_pantheras.R)
 
