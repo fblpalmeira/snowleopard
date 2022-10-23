@@ -2,7 +2,7 @@
 
 - [Script `.R`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/snowleopard/blob/main/pantheras_elevation2.png">
 
 Reference: 
 
